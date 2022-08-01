@@ -1,0 +1,1 @@
+Olá, nesta pasta estão as minhas respostas para os desafios propostos ao final das aulas sobre Typescript.
